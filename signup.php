@@ -22,7 +22,7 @@ if ( $_SERVER['REQUEST_METHOD'] === 'POST' ) {
 						$conn);
 		session_start();
 		$_SESSION['username'] = $_POST['username']; 
-	     view('home');
+	    view('home');
 	   
 	} 
 	
