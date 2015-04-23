@@ -116,8 +116,9 @@ if ( $_SERVER['REQUEST_METHOD'] === 'POST' ) {
               </div>
             <?php else: ?>
               <div class="card-image">
-                 <img src="data:image/jpeg;charset=utf-8;base64,<?php echo base64_encode($carde['image']); ?>" />
-                <span class="card-title"><?= $carde['title']; ?></span>
+              <img src="data:image/jpeg;charset=utf-8;base64,<?php echo base64_encode($carde['image']); ?>" />
+              <!-- <img src="data:image/jpeg;base64,'.base64_encode( $carde['image'] ).'"/> --> 
+              <span class="card-title"><?= $carde['title']; ?></span>
               </div>
             <?php endif; ?>  
               <div class="card-content">
@@ -127,7 +128,7 @@ if ( $_SERVER['REQUEST_METHOD'] === 'POST' ) {
                 <input type="text" placeholder="Comment" />
               </div>
           </div>
-  
+           
 </div>
 <?php endforeach; ?> 
 
