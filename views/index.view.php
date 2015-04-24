@@ -1,13 +1,11 @@
- 
-
-      <div class="inner cover">
-            <h1 class="cover-heading">Hello Buddies ...</h1>
-            <p class="lead">Ideas Board is an online platform for everyone , but most useful for students in a college , collegues in an office and many other situations. 
+<div class="inner cover">
+    <h1 class="cover-heading">Hello Buddies ...</h1>
+    <p class="lead">Ideas Board is an online platform for everyone , but most useful for students in a college , collegues in an office and many other situations. 
               Come , join , share , and connect with people in your community !<br> Have fun !! </p>
-            <p class="lead">
-              <a href="login.php" class="btn btn-lg btn-default">Login</a>
-            </p>
-      </div> 
+    <p class="lead">
+      <a href="login.php" class="btn btn-lg btn-default">Login</a>
+    </p>
+</div> 
 
 
 <div class="infoabout">

@@ -32,7 +32,6 @@ if ( $_SERVER['REQUEST_METHOD'] === 'POST' ) {
     }
   } 
 }
-
 ?>
 
 <!DOCTYPE html>
@@ -143,7 +142,6 @@ if ( $_SERVER['REQUEST_METHOD'] === 'POST' ) {
 <script type="text/javascript" src="../js/masonry.js"></script>
 
 <script>
-
 $(document).ready(function(){
   //If user wants to end session
   $("#signout").click(function(){
@@ -152,21 +150,6 @@ $(document).ready(function(){
   });
 
 });
-
-
-</script>
-
-<script>
-
-$(document).ready(function() {
-    var $mason = $('#mason');
-
-    $mason.masonry({
-      columnWidth: 200,
-      itemSelector: '.card'
-    });
-            
-}
 </script>
 
 </html>

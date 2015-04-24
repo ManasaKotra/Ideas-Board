@@ -7,7 +7,6 @@
     <link href="css/bootstrap-cosmo.css" rel="stylesheet" text="text/css">
     <link href="css/font-awesome.min.css" rel="stylesheet" text="text/css">
     <link href="css/idb.css" rel="stylesheet" text="text/css">
-    <link href="css/custom2.css" rel="stylesheet">
 
   </head>
 
