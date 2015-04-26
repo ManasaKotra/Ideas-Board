@@ -8,7 +8,7 @@
 - Anyone can use it , no probs! But please don't hate me, coz this is just my miniproject 
   and that's why its incomplete .
 - Just made this miniproject public , coz someone may find it a bit useful. 
-- Thank you anyway !! :)
+- Thank you anyway :)
 
 
 #Built with:
